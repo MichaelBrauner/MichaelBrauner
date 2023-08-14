@@ -1,7 +1,3 @@
-🔭 I’m currently working on a bunch of Symfony bundles related to the [Braunstetter ecosystem](https://github.com/Braunstetter)<br>
-🌱 I’m currently learning some VIM and all kind of Linux stuff<br>
-⚡ Fun fact - I am a (ultra) runner. Love all kinds of running from 800m up to 100 Miles.
-
 <!--![](https://github-readme-stats.vercel.app/api?username=MichaelBrauner&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=MichaelBrauner&theme=nord&hide_border=false)<br/> -->
